@@ -2,8 +2,9 @@
   "name": "solarized-light-differentiated",
   "displayName": "Solarized Light Differentiated",
   "description": "Theme to accomplish fine grained customization in combination with Cursive Font (custom-css) and Ligatures (Fira Code) using Fira Code iScript",
-  "version": "1.0.0",
-  "publisher": "Alber70g",
+  "version": "1.0.1",
+  "publisher": "alber70g",
+  "icon": "images/solarized-light-differentiated-logo.png",
   "repository": {
     "url": "https://github.com/Alber70g/solarized-light-differentiated",
     "type": "git"

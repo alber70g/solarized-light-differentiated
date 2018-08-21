@@ -1,4 +1,20 @@
-# Solarized Light Differentiated
+<div style="padding: 0 25px 0">
+  <div align="center">
+    <img height="128px"
+     src="https://raw.githubusercontent.com/Alber70g/solarized-light-differentiated/master/images/solarized-light-differentiated-logo.png" 
+     alt="Solarized Light Differentiated logo">
+  </div>
+</div>
+<h1 align="center">Solarized Light Differentiated</h1>
+<h3 align="center" style="border:none">
+Theme to accomplish fine grained customization in combination with Cursive Font
+(custom-css) and Ligatures (Fira Code) using Fira Code iScript</h3>
+<div align="center">
+  <img src="https://vsmarketplacebadge.apphb.com/version/alber70g.solarized-light-differentiated.svg" alt="">
+  <img src="https://vsmarketplacebadge.apphb.com/installs/alber70g.solarized-light-differentiated.svg" alt="">
+</div>
+<br/>
+</div>
 
 > This theme is an extension of the original Solarized Light theme. It's purpose is to add italics to the keywords with minimal changes using Custom CSS
 
@@ -10,12 +26,11 @@ Html
 Typescript
 ![Typescript demo](./images/ts.png)
 
-- [Solarized Light Differentiated](#solarized-light-differentiated)
-  - [Demo's](#demos)
-  - [Usage](#usage)
-  - [Problem description](#problem-description)
-  - [Solution](#solution)
-  - [Contributions](#contributions)
+- [Demo's](#demos)
+- [Usage](#usage)
+- [Problem description](#problem-description)
+- [Solution](#solution)
+- [Contributions](#contributions)
 
 ## Usage
 
