@@ -14,6 +14,7 @@
 				"scope": [
 					"keyword.control",
 					"storage.type",
+					"storage.modifier",
 					"variable.language.this",
 					"entity.other.attribute-name",
 					"comment.block"
