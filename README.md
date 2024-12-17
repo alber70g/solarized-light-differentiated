@@ -10,8 +10,8 @@
 Theme to accomplish fine grained customization in combination with Cursive Font
 (custom-css) and Ligatures (Fira Code) using Fira Code iScript</h3>
 <div align="center">
-  <img src="https://vsmarketplacebadge.apphb.com/version/alber70g.solarized-light-differentiated.svg" alt="">
-  <img src="https://vsmarketplacebadge.apphb.com/installs/alber70g.solarized-light-differentiated.svg" alt="">
+  <img src="https://vsmarketplacebadges.dev/version/alber70g.solarized-light-differentiated.svg" alt="">
+  <img src="https://vsmarketplacebadges.dev/installs/alber70g.solarized-light-differentiated.svg" alt="">
 </div>
 <br/>
 </div>

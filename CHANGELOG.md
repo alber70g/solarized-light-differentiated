@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.3] - 2024-12-17
+- Fix issue where hover text was not selectable
+- Update theme to latest version of VSCode Solarized Light
+
+## [1.0.2] - 2018-08-29
+- Added "storage.modifier" to italic set
+
 ## [1.0.1] - 2018-08-21
 - Added logo and nice header
 
