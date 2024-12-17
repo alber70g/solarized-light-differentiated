@@ -1,8 +1,8 @@
 {
   "name": "solarized-light-differentiated",
-  "displayName": "Solarized Light Differentiated",
+  "displayName": "Solarized Light Differentiated (Italics)",
   "description": "Theme to accomplish fine grained customization in combination with Cursive Font (custom-css) and Ligatures (Fira Code) using Fira Code iScript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "alber70g",
   "icon": "images/solarized-light-differentiated-logo.png",
   "repository": {
@@ -12,11 +12,13 @@
   "engines": {
     "vscode": "^1.23.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Solarized Light Differentiated",
+        "label": "Solarized Light Differentiated (Italics)",
         "uiTheme": "vs",
         "path": "./themes/Solarized Light Differentiated-color-theme.json"
       }

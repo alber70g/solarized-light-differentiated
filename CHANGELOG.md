@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.4] - 2024-12-17
+- Rename to include "Italics" in the name
+
 ## [1.0.3] - 2024-12-17
 - Fix issue where hover text was not selectable
 - Update theme to latest version of VSCode Solarized Light
